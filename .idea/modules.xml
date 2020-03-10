@@ -3,14 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/android-camera-calibration.iml" filepath="$PROJECT_DIR$/android-camera-calibration.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android-camera-calibration.iml" filepath="$PROJECT_DIR$/android-camera-calibration.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="android-camera-calibration/app" />
       <module fileurl="file://$PROJECT_DIR$/libraries/jpeg/jpeg.iml" filepath="$PROJECT_DIR$/libraries/jpeg/jpeg.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libraries/jpeg/jpeg.iml" filepath="$PROJECT_DIR$/libraries/jpeg/jpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/jpeg/libraries-jpeg.iml" filepath="$PROJECT_DIR$/libraries/jpeg/libraries-jpeg.iml" group="android-camera-calibration/jpeg" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/opencv_310/libraries-opencv_310.iml" filepath="$PROJECT_DIR$/libraries/opencv_310/libraries-opencv_310.iml" group="android-camera-calibration/opencv_310" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/swapheap/libraries-swapheap.iml" filepath="$PROJECT_DIR$/libraries/swapheap/libraries-swapheap.iml" group="android-camera-calibration/swapheap" />
       <module fileurl="file://$PROJECT_DIR$/libraries/opencv_310/opencv_310.iml" filepath="$PROJECT_DIR$/libraries/opencv_310/opencv_310.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libraries/opencv_310/opencv_310.iml" filepath="$PROJECT_DIR$/libraries/opencv_310/opencv_310.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libraries/swapheap/swapheap.iml" filepath="$PROJECT_DIR$/libraries/swapheap/swapheap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opensource-android-camera-calibration.iml" filepath="$PROJECT_DIR$/opensource-android-camera-calibration.iml" group="android-camera-calibration" />
       <module fileurl="file://$PROJECT_DIR$/libraries/swapheap/swapheap.iml" filepath="$PROJECT_DIR$/libraries/swapheap/swapheap.iml" />
     </modules>
   </component>
